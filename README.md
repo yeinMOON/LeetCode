@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yeinMOON/LeetCode/tree/master/0001-two-sum) |
+| [0303-range-sum-query-immutable](https://github.com/yeinMOON/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yeinMOON/LeetCode/tree/master/0001-two-sum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yeinMOON/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yeinMOON/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
