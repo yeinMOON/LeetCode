@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yeinMOON/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/yeinMOON/LeetCode/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/yeinMOON/LeetCode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/yeinMOON/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yeinMOON/LeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yeinMOON/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yeinMOON/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
