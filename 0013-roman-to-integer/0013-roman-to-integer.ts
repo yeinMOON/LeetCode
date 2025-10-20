@@ -9,12 +9,11 @@ function romanToInt(s: string): number {
         ['M', 1000]
     ]);
 
-    const arr = s.split('');
     let sum = 0;
 
-    for (let i = 0; i < arr.length; i ++) {
-        const cur = romanMap.get(arr[i]);
-        const next = romanMap.get(arr[i + 1]);
+    for (let i = 0; i < s.length; i ++) {
+        const cur = romanMap.get(s[i]);
+        const next = romanMap.get(s[i + 1]);
         if (next === undefined) sum += cur;
         else if (cur < next) sum -= cur;
         else sum += cur;
